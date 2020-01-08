@@ -2,3 +2,5 @@ hello1
 poszla ola
 do przedszkola
 zapamiala psola
+to robie na linuksie
+
