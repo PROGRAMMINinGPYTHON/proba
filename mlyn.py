@@ -1,0 +1,1 @@
+print("tu narysuje mlyn")
